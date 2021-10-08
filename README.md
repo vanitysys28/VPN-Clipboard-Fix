@@ -4,7 +4,7 @@ Extension pour Chrome ajoutant des raccourcis facilitant l'utilisation de Citrix
 
 # Téléchargement
 
-- Cliquer sur le bouton Code
+- Cliquer sur le bouton vert "Code" en haut à droite de la page
 - Cliquer sur Download ZIP
 - Extraire l'archive
 
