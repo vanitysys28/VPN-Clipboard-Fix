@@ -14,7 +14,7 @@
     },
     "web_accessible_resources": ["commands.js"],
     "content_scripts": [{
-        "matches": ["<all_urls>"],
+        "matches": ["*://*/sslvpn*"],
         "js": [
             "script.js"
         ]
