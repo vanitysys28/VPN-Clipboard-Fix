@@ -21,7 +21,8 @@ Après avoir fait un "Copier" avec Ctrl+C dans Citrix, copie et ajoute le texte 
 Pas besoin d'appuyer sur le bouton "Request Remote Clipboard".
 Il ne suffit plus qu'à appuyer sur Ctrl+C dans le champ pour copier le texte et l'utiliser en externe.
 
-L'utilisation de ce raccourci ouvre automatiquement le menu F8
+L'utilisation de ce raccourci ouvre automatiquement le menu F8.
+Il faut ensuite vous rendre manuellement dans Clipboard pour terminer la manipulation.
 
 **Ctrl+Alt+V**
 
