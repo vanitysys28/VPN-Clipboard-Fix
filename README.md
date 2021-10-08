@@ -33,3 +33,4 @@ Il faut ensuite vous rendre manuellement dans Clipboard pour terminer la manipul
 **Ctrl+Alt+V**
 
 Une fois le Clipboard ouvert, et le texte entré dans le champ de texte, raccourci permettant de copier le texte du champ dans le presse papier sans avoir à appuyer sur "Copy to Remote Clipboard".
+Le raccourci ferme également automatiquement le menu F8.
