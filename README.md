@@ -23,7 +23,7 @@ Ouvre le menu F8
 
 **Ctrl+Alt+C**
 
-Après avoir fait un "Copier" avec Ctrl+C dans Citrix, copie et ajoute le texte directement dans le Clipboard.
+Après avoir fait un "Copier" avec Ctrl+C dans Citrix (ou bien avoir copié un numéro FR, une transaction dans l'historique de paiement), copie et ajoute le texte directement dans le Clipboard.
 Pas besoin d'appuyer sur le bouton "Request Remote Clipboard".
 Il ne suffit plus qu'à appuyer sur Ctrl+C dans le champ pour copier le texte et l'utiliser en externe.
 
