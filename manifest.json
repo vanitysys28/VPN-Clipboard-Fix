@@ -12,7 +12,7 @@
     "browser_action": {
         "default-icon": "logo.png"
     },
-    "web_accessible_resources": ["commands.js"],
+    "web_accessible_resources": ["shortcuts.js"],
     "content_scripts": [{
         "matches": ["*://*/sslvpn*"],
         "js": [
