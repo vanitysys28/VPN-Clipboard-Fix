@@ -1,6 +1,6 @@
 var s = document.createElement('script');
 s.src = chrome.runtime.getURL('commands.js');
 s.onload = function() {
-this.remove();
+    this.remove();
 };
 (document.head || document.documentElement).appendChild(s);

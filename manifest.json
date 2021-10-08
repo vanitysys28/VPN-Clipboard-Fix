@@ -12,7 +12,7 @@
     "browser_action": {
         "default-icon": "logo.png"
     },
-"web_accessible_resources": ["commands.js"],
+    "web_accessible_resources": ["commands.js"],
     "content_scripts": [{
         "matches": ["<all_urls>"],
         "js": [
