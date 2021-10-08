@@ -2,6 +2,12 @@
 
 Extension pour Chrome ajoutant des raccourcis facilitant l'utilisation de Citrix depuis la maison.
 
+# Téléchargement
+
+- Cliquer sur le bouton Code
+- Cliquer sur Download ZIP
+- Extraire l'archive
+
 # Installation
 
 - Se rendre dans chrome://extensions
