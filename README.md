@@ -2,6 +2,13 @@
 
 Extension pour Chrome ajoutant des raccourcis facilitant l'utilisation de Citrix depuis la maison.
 
+# Installation
+
+- Se rendre dans chrome://extensions
+- S'assurer que "Developer mode" est activé
+- Glisser-déposer le dossier dans la page *OU* Cliquer sur "Load unpacked" et sélectionner le dossier dans l'explorateur
+
+
 # Différents Raccourcis
 
 **Ctrl+Alt+S**
