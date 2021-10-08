@@ -12,29 +12,9 @@
     "browser_action": {
         "default-icon": "logo.png"
     },
-    "commands": {
-        "show": {
-            "suggested_key": {
-                "default": "Ctrl+Alt+S"
-            },
-            "description": "Show F8 menu"
-        },
-        "copy": {
-            "suggested_key": {
-                "default": "Ctrl+Alt+C"
-            },
-            "description": "Initiate text copy from RDP"
-        },
-        "paste": {
-            "suggested_key": {
-                "default": "Ctrl+Alt+V"
-            },
-            "description": "Copy content of RDP clipboard to RDP"
-        }
-    },
     "background": {
         "scripts": [
-            "background.js"
+            "commands.js"
         ],
         "persistent": false
     }
