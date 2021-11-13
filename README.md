@@ -10,7 +10,7 @@ Extension pour Chrome ajoutant des raccourcis facilitant l'utilisation de Citrix
 
 # Installation
 
-- Sur Google Chrome, taper dans la barre d'adresse : chrome://extensions
+- Sur Google Chrome, taper dans la barre d'adresse (là où l'adresse du site est inscrite) : chrome://extensions
 - S'assurer que "Developer mode" est activé
 
 ![alt text](https://i.imgur.com/7lOLdXo.png)
